@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " # ",
+    " N "
+  ],
+  "key": {
+    "#": {
+      "item": "ashborn:death_ingot"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "ashborn:death_longsword",
+    "count": 1
+  }
+}

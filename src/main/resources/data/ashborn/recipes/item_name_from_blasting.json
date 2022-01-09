@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {"item": "ashborn:death_ore"},
+  "result": "ashborn:death_ingot",
+  "experience": 1000,
+  "cookingtime": 600
+}

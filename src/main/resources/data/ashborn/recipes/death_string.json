@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " d ",
+    "  s"
+  ],
+  "key":
+  {
+    "d":
+    {
+      "item": "ashborn:death_ingot"
+    },
+    "s":
+    {
+      "item": "minecraft:string"
+    }
+
+  },
+  "result": {
+    "item": "ashborn:death_string",
+    "count": 1
+  }
+}
+

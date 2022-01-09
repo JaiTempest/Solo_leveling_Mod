@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " n ",
+    " P "
+  ],
+  "key": {
+    "n": {
+      "item": "ashborn:death_ingot"
+    },
+    "P": {
+      "item": "minecraft:player_head"
+    }
+  },
+  "result": {
+    "item": "minecraft:dragon_head",
+    "count": 1
+  }
+}

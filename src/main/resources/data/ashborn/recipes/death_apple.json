@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "sds",
+    "sss"
+  ],
+  "key":
+  {
+    "d":
+    {
+      "item": "minecraft:apple"
+    },
+    "s":
+    {
+      "item": "ashborn:death_ingot"
+    }
+
+  },
+  "result": {
+    "item": "ashborn:death_apple",
+    "count": 1
+  }
+}
+
